@@ -1,0 +1,14 @@
+{
+    "name": "doqnach/phpmd-shortvariable-error",
+    "type": "project",
+    "authors": [
+        {
+            "name": "doqnach",
+            "email": "doqnach@user.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmd/phpmd": "dev-master"
+    }
+}
